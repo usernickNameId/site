@@ -1,0 +1,98 @@
+.block-first {
+    background-color: red;
+    width: 100%;
+    padding-bottom: 50px;
+}
+.block-second {
+    background-color: green;
+    width: 100%;
+    padding-bottom: 50px;
+}
+.block-third {
+    background-color: blue;
+    width: 100%;
+    padding-bottom: 50px;
+}
+.container {
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.wrapper {
+    padding-top: 100px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.div-block {
+    display: inline;
+}
+.div-first {
+    height: 50px;
+}
+.div-second {
+    background-color: yellow;
+    padding-bottom: 50px;
+
+}
+
+.block-first-first {
+    width: 33.3%;
+    background-color: red;
+    height: 50px;
+    float: right;
+}
+.block-second-second {
+    width: 33.3%;
+    background-color: blue;
+    height: 50px;
+    float: right;
+}
+.block-third-third {
+    float: right;
+    background-color: green;
+    height: 50px;
+    width: 33.3%;
+}
+.block-five-first {
+    width: 50%;
+    background-color: grey;
+    height: 50px;
+    float: right;
+}
+.block-five-second {
+    width: 50%;
+    background-color: black;
+    height: 50px;
+    float: right;
+}
+.content {
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 150px;
+    background-color: green;
+    margin-top: 100px;
+    text-align: center;
+}
+.content__first {
+    float: right;
+    margin-top: 20px;
+    background-color: red;
+    width: 30%;
+    margin-right: 10px;
+    height: 100px;
+}
+.content__second {
+    float:right;
+    margin-top: 20px;
+    background-color: grey;
+    width: 30%;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.content__third {
+    float: right;
+    margin-top: 20px;
+    background-color: blue;
+    width: 30%;
+    height: 100px;
+}
